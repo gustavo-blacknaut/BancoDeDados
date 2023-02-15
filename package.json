@@ -1,0 +1,14 @@
+{
+  "name": "blackdb",
+  "version": "1.0.0",
+  "description": "Um simples banco de dados local",
+  "main": "BancoDeDados.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BancoDeDados"
+  ],
+  "author": "blacknaut",
+  "license": "ISC"
+}
